@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/cnb0/learning-flux-cd.svg?style=svg)](https://circleci.com/gh/cnb0/learning-flux-cd)
 
-We published a step-by-step run-through on how to use Flux and Helm Operator [over
+step-by-step run-through on how to use Flux and Helm Operator [over
 here](https://github.com/fluxcd/flux/blob/master/docs/tutorials/get-started-helm.md).
 
 ## Workloads
